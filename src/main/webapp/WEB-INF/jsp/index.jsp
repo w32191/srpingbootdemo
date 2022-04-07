@@ -8,7 +8,7 @@
 <%--<%@include file="layout/default.jsp" %>--%>
 <jsp:include page="layout/default.jsp"/>
 <h1>This is home page</h1>
-
+<p>測試</p>
 
 </body>
 </html>
